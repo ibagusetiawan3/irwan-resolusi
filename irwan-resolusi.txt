@@ -1,7 +1,8 @@
 IRWAN RESOLUSI
-- Belajar LINUX Fundamental dan sertifikasi
+- Belajar LINUX Fundamental dan sertifikasi -> Done
 - Belajar VIRTUALIZATION dan sertifikasi
 - Belajar Win Server 
 - Belajar Tools Devops
   - Docker
   - NPM
+  - Github & Git
