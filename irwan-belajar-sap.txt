@@ -6,3 +6,7 @@ Rencana Belajar SAP
 - Belajar Database
  * Oracle
  * Sqlite
+ * Mysql
+ * Postgree
+ * SQL Server
+
