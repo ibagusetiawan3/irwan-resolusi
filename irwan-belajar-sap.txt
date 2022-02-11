@@ -4,3 +4,6 @@ Rencana Belajar SAP
   * SAP Implementation
 - Ingin belajar infrastructure SAP
 - Belajar Database
+ * Mysql
+ * Postgree
+ * SQL Server
