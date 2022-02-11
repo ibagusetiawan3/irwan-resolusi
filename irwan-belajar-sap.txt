@@ -1,0 +1,5 @@
+Rencana Belajar SAP
+- Ingin pelatihan terkait SAP BASIS
+  * SAP S4Hana Installation
+  * SAP Implementation
+- Ingin belajar infrastructure SAP
