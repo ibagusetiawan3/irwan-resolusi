@@ -3,3 +3,4 @@ Rencana Belajar SAP
   * SAP S4Hana Installation
   * SAP Implementation
 - Ingin belajar infrastructure SAP
+- Belajar Database
